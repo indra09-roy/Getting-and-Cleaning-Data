@@ -1,7 +1,6 @@
-Code Book
+#Code Book
 
-ID Fields
+##ID Fields
 
-Activities - The label of the activity performed when the corresponding measurements were taken
-
-Subjects - The participant ("subject") ID
+* Activities - The label of the activity performed when the corresponding measurements were taken
+*Subjects - The participant ("subject") ID
